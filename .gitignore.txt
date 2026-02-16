@@ -1,17 +1,1 @@
-# Unity folders/files to ignore
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Logs/
 
-# IDE / editor files
-*.csproj
-*.sln
-*.user
-*.pidb
-*.booproj
-
-# Asset Store tools
-Assets/AssetStoreTools*
